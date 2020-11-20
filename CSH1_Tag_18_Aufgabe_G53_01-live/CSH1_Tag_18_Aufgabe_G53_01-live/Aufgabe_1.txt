@@ -1,0 +1,18 @@
+/*
+    Führen Sie bitte die folgenden Klassen ein:
+        Entität
+        Gegenstand
+        Lebewesen
+        Tier
+        Mensch
+    Für diese gilt:
+        Gegenstand und Lebewesen erben von Entität / Tier und Mensch erben von Lebewesen
+        Objekte sollen nur von Gegenstand, Tier und Mensch instanziierbar sein
+    
+    Aufgaben
+        a) Erstellen Sie ein entsprechendes UML-Diagramm (# für protected)
+        b) Für alle Klassen soll eine Liste eingeführt werden
+        c) Alle Objekte sollen in alle passenden Listen eingetragen werden (Menschen also z.B. in der Menschen-, Lebewesen- und Entitäten-Liste)
+        d) führen Sie bitte alle Objekte ein (Werte: siehe Screenshot)
+        e) lassen Sie bitte alle Klassen ausgeben (wie im Screenshot)
+*/

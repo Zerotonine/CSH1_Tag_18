@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSH1_Tag_18_Aufgabe_G53_01-live", "CSH1_Tag_18_Aufgabe_G53_01-live\CSH1_Tag_18_Aufgabe_G53_01-live.csproj", "{F5035BB0-C409-491F-B2F9-D5ED587FF2E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5035BB0-C409-491F-B2F9-D5ED587FF2E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5035BB0-C409-491F-B2F9-D5ED587FF2E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5035BB0-C409-491F-B2F9-D5ED587FF2E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5035BB0-C409-491F-B2F9-D5ED587FF2E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7512E6DE-3796-4B93-944B-E00A27E89FE6}
+	EndGlobalSection
+EndGlobal

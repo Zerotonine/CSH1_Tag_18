@@ -1,0 +1,7 @@
+﻿/* Aufgabe 0 (Basics)
+ * Zwei Klassen: 
+ * - "Bankkonto" mit einem protected Attribut "pin" und einem Konstruktor, der den pin initialisiert.
+ * - "Girokonto" mit der öffentlichen Methode "Abheben" und einem Konstruktor für den Pin. Girokonto erbt von Bankkonto
+ *      "Abheben" prüft einen übergebenen Pin, ob er mit dem hinterlegten übereinstimmt und gibt eine passende Meldung aus.
+ * Im Main legen Sie ein Girokonto an und rufen die Methode "Abheben" auf.
+ */

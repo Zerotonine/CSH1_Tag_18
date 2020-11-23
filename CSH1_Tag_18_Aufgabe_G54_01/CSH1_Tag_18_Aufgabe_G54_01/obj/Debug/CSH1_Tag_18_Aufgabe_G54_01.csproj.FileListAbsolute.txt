@@ -1,0 +1,7 @@
+C:\Users\Phil\source\repos\CSH1_Tag_18_Aufgabe_G54_01\CSH1_Tag_18_Aufgabe_G54_01\bin\Debug\CSH1_Tag_18_Aufgabe_G54_01.exe.config
+C:\Users\Phil\source\repos\CSH1_Tag_18_Aufgabe_G54_01\CSH1_Tag_18_Aufgabe_G54_01\bin\Debug\CSH1_Tag_18_Aufgabe_G54_01.exe
+C:\Users\Phil\source\repos\CSH1_Tag_18_Aufgabe_G54_01\CSH1_Tag_18_Aufgabe_G54_01\bin\Debug\CSH1_Tag_18_Aufgabe_G54_01.pdb
+C:\Users\Phil\source\repos\CSH1_Tag_18_Aufgabe_G54_01\CSH1_Tag_18_Aufgabe_G54_01\obj\Debug\CSH1_Tag_18_Aufgabe_G54_01.csprojAssemblyReference.cache
+C:\Users\Phil\source\repos\CSH1_Tag_18_Aufgabe_G54_01\CSH1_Tag_18_Aufgabe_G54_01\obj\Debug\CSH1_Tag_18_Aufgabe_G54_01.csproj.CoreCompileInputs.cache
+C:\Users\Phil\source\repos\CSH1_Tag_18_Aufgabe_G54_01\CSH1_Tag_18_Aufgabe_G54_01\obj\Debug\CSH1_Tag_18_Aufgabe_G54_01.exe
+C:\Users\Phil\source\repos\CSH1_Tag_18_Aufgabe_G54_01\CSH1_Tag_18_Aufgabe_G54_01\obj\Debug\CSH1_Tag_18_Aufgabe_G54_01.pdb

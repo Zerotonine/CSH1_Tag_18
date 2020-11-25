@@ -1,0 +1,16 @@
+/*
+    Führen Sie bitte die Klassen Lebewesen, Säugetier, Hund und Dackel ein:
+        Dackel erbt von Hund, Hund von Säugetier und Säugetier von Lebewesen
+        Lebewesen besitzt die virtuelle Methode "ErzähleWasÜberDieBeine()"
+            Funktion: Konsolen-Ausgabe "Lebewesen können sehr unterschiedlich viele Beine besitzen."
+        Säugetier überschreibt diese Methode mit der Ausgabe:
+            "Säugetiere haben zwischen 0 und 4 Beine."
+        Hund überschreibt diese Methode mit der Ausgabe:
+            "Hunde haben 4 Beine." UND VERSIEGELT die Methode
+        Dackel erbt diese Methode von Hund ohne zu überschreiben
+
+    Im Main
+        - Einführung einer Liste vom Typ Lebewesen
+        - Liste wird gefüllt mit je einer Instanz aller 4 Klassen
+        - In einer foreach-Schleife wird für alle Elemente der Liste die Methode "ErzähleWasÜberDieBeine()" aufgerufen      
+*/
